@@ -2,18 +2,18 @@
 <html>
   <head>
     <title>football.js</title>
-    <meta charset='UTF-8'>
-    <script src='lib/jquery-2.1.0.min.js'></script>
-    <script src='football.js'></script>
-    <script>
-$(document).ready( function() { 
-   var api_base = "http://footballdb.herokuapp.com/api/v1"
-   var world_cup_widget = footballdb_widget_new( '#world', api_base );
-   world_cup_widget.update( 'world.2014', '2' );
-});
-  </script>
+    <meta charset="UTF-8">
+    <style>
+       body { font-size: 200%; }
+    </style>
   </head>
   <body>
-    <div id='world'></div>  
+    <div id="widget"></div>
+
+    <script src="football.js"></script>
+    <script>
+    let widget = new FootballDbWidget( "widget" );
+    widget.fetch( "2018/worldcup" );
+    </script>
   </body>
 </html>
