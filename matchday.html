@@ -8,12 +8,15 @@
     </style>
   </head>
   <body>
-    <div id="widget"></div>
+
+    <div id="widget2018"></div>
+    <hr>
+    <div id="widget2014"></div>
 
     <script src="football.js"></script>
     <script>
-    let widget = new FootballDbWidget( "widget" );
-    widget.fetch( "2018/worldcup" );
+    new FootballDbWidget( "widget2018", {service:"2018/worldcup"} );
+    new FootballDbWidget( "widget2014", {service:"2014/worldcup"} );
     </script>
   </body>
 </html>

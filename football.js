@@ -7,29 +7,31 @@ class FootballDbWidget {
     this.opts      = opts;
 
     this.$widget =   document.getElementById( widget_id );
-    this.data    =  {}
+    this.data    =  {};
+
+    this.fetch( this.opts.service || "2018/worldcup" );
   }
 
 
-  fetch( path="2018/worldcup" )
+  fetch( service )
   {
     const that = this;
-    const url = "https://raw.githubusercontent.com/openfootball/world-cup.json/master/" + path + ".json";
+    const url = "https://raw.githubusercontent.com/openfootball/world-cup.json/master/" + service + ".json";
     fetch( url )
     .then( (resp) => resp.json() )
     .then( function( data ) {
       console.log( "fetch data:" );
       console.log( data );
       that.data = data;
+      that.update_header();
       that.update_round( 0 );    // note: index starts at zero
     })
     .catch(function(err) { console.log(err); });
   }
 
-  update_round( pos )
-  {
-      console.log( `update_round( ${pos} )` );
 
+  update_header()
+  {
       const data = this.data;
 
       let snippet = "";  // build up a hypertext (html) snippet to add/append
@@ -39,13 +41,43 @@ class FootballDbWidget {
         snippet += `<span id="round${idx+1}" title="${round.name}"> ${idx+1} </span>`;
       }
       snippet += "</div>";
-      snippet += `<h3>${data.rounds[pos].name}</h3>`;
+      snippet += `<div id="matches"></div>`;
 
+      this.$widget.innerHTML = snippet;
+
+      // add onclick handlers
+      for( const [idx,round] of data.rounds.entries()) {
+        // note: getElementById is only for document (ids should be unique anyways :-))
+        //        thus, use querySelector for now
+        const $round = this.$widget.querySelector( `#round${idx+1}` );
+        $round.addEventListener( "click", ()=>this.update_round( idx ) );
+      }
+}  // fn update_header
+
+
+  update_round( pos )
+  {
+      console.log( `update_round( ${pos} )` );
+
+      const data = this.data;
+
+      // note: getElementById is only for document (ids should be unique anyways :-))
+      //        thus, use querySelector for now
+      const $matches = this.$widget.querySelector( "#matches" );
+
+
+      let snippet = "";  // build up a hypertext (html) snippet to add/append
+      snippet += `<h3>${data.rounds[pos].name}</h3>`;
 
       for( const match of data.rounds[pos].matches) {
         snippet += "<div>";
-        snippet += `#${match.num} | `;
-        snippet += `${match.date} ${match.time}  `;
+        if( match.num )
+          snippet += `#${match.num} | `;
+
+        const date = new Date( match.date );
+        var opts = { weekday: 'short',  month: 'short', day: 'numeric' };
+
+        snippet += `${date.toLocaleDateString( "en-US", opts )} ${match.time} `;
         snippet += `${match.team1.name} (${match.team1.code})`;
 
         if( match.score1 != null && match.score2 != null ) {
@@ -61,19 +93,14 @@ class FootballDbWidget {
           snippet += " vs ";
 
         snippet += ` ${match.team2.name} (${match.team2.code})`;
-        snippet += ` @ ${match.city} (${match.timezone})`;
+        if( match.group )
+         snippet += ` / ${match.group}`
+
+        if( match.city )
+          snippet += ` @ ${match.city} (${match.timezone})`;
         snippet += "</div>";
       }
 
-
-      this.$widget.innerHTML = snippet;
-
-      // add onclick handlers
-      for( const [idx,round] of data.rounds.entries()) {
-        // todo/fix: limit scope use this.$widget NOT document
-        const $round = document.getElementById( `round${idx+1}` );
-        $round.addEventListener( "click", ()=>this.update_round( idx ) );
-        // $round.style.color = "red";
-      }
+      $matches.innerHTML = snippet;
   }  // fn update
-}
+}  // class FootballDbWidget
