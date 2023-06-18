@@ -28,7 +28,7 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 ## Wen Deploy?  What's Upcoming?
 
-100 D.I.Y. Recursive Martians - Aliens Vol. 2 (24×24) - SOON! <br> [read more »]()
+100 D.I.Y. Recursive Martians - Aliens Vol. 2 (24×24) - SOON! <br> [read more »](https://github.com/ordbase/generative-orc-721/tree/master/diymartians)
 
 
 
