@@ -18,6 +18,21 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 
 
+## Alpha Alpha Alpha - Free Mints (First-Come / First-Serve)
+
+721 D.I.Y. Birdies (24×24) - [read more »](https://github.com/ordbase/generative-orc-721/tree/master/diybirdies)
+
+1000 Words on Bitcoin by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  - [read more »](https://github.com/ZimmerAllDay/btcwords)
+
+
+
+## Wen Deploy?  What's Upcoming?
+
+100 D.I.Y. Recursive Martians - Aliens Vol. 2 (24×24) - SOON! - [read more »]()
+
+
+
+
 ##  Wen Magic Eden (ME)?
 
 
