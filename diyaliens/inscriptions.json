@@ -15,6 +15,10 @@
         {
           "trait_type": "Eyewear",
           "value": "15 - Eye Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 5 15"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/460b3a0a6ba02683b5b55f158cab9541f1a231a0d5138bd6d8541f597c82f7e8i0.png"
@@ -32,6 +36,10 @@
         {
           "trait_type": "Headwear",
           "value": "10 - Beanie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/4b531d1381002ce109c7d431eb7b799e2f2eb8a3f74d587eb5f06ef40e901e1bi0.png"
@@ -49,6 +57,10 @@
         {
           "trait_type": "Headwear",
           "value": "3 - Bandana"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 3"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/2f04a9deb3fecdba6313a7f213cac6136a51bcf8476a8b4206293acb46432934i0.png"
@@ -70,6 +82,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 23 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/6b46535e7648645b87b5ca282e5fce71451efd6187ac24fa45d70149fec1f181i0.png"
@@ -91,6 +107,10 @@
         {
           "trait_type": "Headwear",
           "value": "7 - Cap"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 15 7"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/8f13c29c528af152568034965bc70c6d5a79d333e133c0485ebefaa94f6df298i0.png"
@@ -108,6 +128,10 @@
         {
           "trait_type": "Headwear",
           "value": "9 - Knitted Cap"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 9"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/3ac34674fa405f4a983f6b0f46201377f98c8a266ed4e38aa741d21f251d42a0i0.png"
@@ -129,6 +153,10 @@
         {
           "trait_type": "Eyewear",
           "value": "15 - Eye Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 25 15"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/d7ffc201d281b6f511bae165625d19a879784506c5c4be220f031507324dbaa1i0.png"
@@ -150,6 +178,10 @@
         {
           "trait_type": "Headwear",
           "value": "3 - Bandana"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 17 3"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/bcac43e6cb4e203b8ea1bb9f5c18ec1ceb44ba95356104a378cd45699d273ad9i0.png"
@@ -171,6 +203,10 @@
         {
           "trait_type": "Eyewear",
           "value": "12 - Nerd Glasses"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 6 12"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/63cca965a97f30b55df038c3b92b07687d92b420a6bf5fc1c16b5b3fec9452e0i0.png"
@@ -192,6 +228,10 @@
         {
           "trait_type": "Eyewear",
           "value": "12 - Nerd Glasses"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 12"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/c81155e7a00dfdcc40791c1e3686f75fd4fbbdda27aff74ed60fe72690bc47edi0.png"
@@ -217,6 +257,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 8 13 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/3f57feabb16592d5d696a3860e4771af1a2e2a982aa811b97f00b6b7704e919di0.png"
@@ -250,6 +294,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 14 20 21 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/0e0b673f0aed0f5a424f314747d44ac97e58a90de91bfb1228985a0cef61a926i0.png"
@@ -283,6 +331,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 10 16 20 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/7075078b7f1865435ad1d302c303daaf3549126b06f8de8208d5d92d2ca6fdaei0.png"
@@ -316,6 +368,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 10 14 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/89281a6880e3cbc02e93ffaa2dee44e0edf0e5f27c0849df5b68cfe29a32ac90i0.png"
@@ -353,6 +409,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 3 12 21 23 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/4b3e3ab42191f04e8759610a1a5337672dbf9570c971de70b846b654ac7a0f9fi0.png"
@@ -390,6 +450,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 3 12 20 24 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/ee2270dd707fecaa1d9e0a97a9f79847583c8470a8791e86e49edaa31d681d3ei0.png"
@@ -427,6 +491,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 2 3 12 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/d8267119b3fe6b31dba9cf7e156a1310451305d80f6effeb21abf399532354f1i0.png"
@@ -460,6 +528,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 6 20 11 14 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/e9da8f01b04ae78c5cbf5b4d062cd322837b40870f335f691c9a17c5024368bai0.png"
@@ -485,6 +557,10 @@
         {
           "trait_type": "Eyewear",
           "value": "14 - 3D Glasses"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 20 21 14"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/63cbc5ddafeb56fff69efbabb25a026283222b1e187ec71b3a1097c30020e60ci0.png"
@@ -522,6 +598,10 @@
         {
           "trait_type": "Jewelery",
           "value": "21 - Gold Chain"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 6 20 11 14 23 21"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/a7ed95771e2f579a4bb9a88005fd816ef30a4145eccc61fcc03ff7ef55a6bd1ei0.png"
@@ -551,6 +631,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 3 21 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/a9e93977b21b1f3fc5111d8104b77773de20ed4c721fc22fefe8f1717f7f0854i0.png"
@@ -576,6 +660,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 3 21 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/26fc1d686ff50d6bb1297f2cf271ed165bd8cee8e7d0e14d597ccd7ae3033fcfi0.png"
@@ -601,6 +689,10 @@
         {
           "trait_type": "Eyewear",
           "value": "15 - Eye Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 7 17 15"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/9cad16434e126a1e3f5b5808f51896d31634b83524390314fdd501ea67212b29i0.png"
@@ -646,6 +738,10 @@
         {
           "trait_type": "Jewelery",
           "value": "21 - Gold Chain"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 14 15 18 8 6 12 20 21"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/19963553a5c69c4186d9a9fa98ce806c0a3e04078119b9f5163924f6824d52e8i0.png"
@@ -675,6 +771,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "6 14 20 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/dbe776ecd3acbed78c01d8968ea0831711c4beb713998815ea740a5f602ee499i0.png"
@@ -700,6 +800,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "3 12 20 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/3e14618a181155414c05ab7d13273691c37b52a25248bd464489d628c7118813i0.png"
@@ -733,6 +837,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 4 15 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/425ce19672d321f9c85db17f54a3bd46a8f9d18c55cd8b8cd58fca1c9ac494e0i0.png"
@@ -766,6 +874,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 8 14 21 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/7a017f86faa73aa666fe923a463e45ac45f54c4e1c4dd840e21c9d5b1082c337i0.png"
@@ -799,6 +911,10 @@
         {
           "trait_type": "Hair",
           "value": "1 - Mohawk"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 14 18 15 20 1"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/217f0ae70e51c3b0f5404cadf54a99ae3c787ff03c3f1fc88ef3a50c9242af13i0.png"
@@ -832,6 +948,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "25 14 15 21 20 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/04a8d9ce8fb6b118301d72c55caa1a4bf624fc94bc42528de2cc5c7e1c837f3di0.png"
@@ -865,6 +985,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 6 19 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/e05315c451384520f63b6e6bac1b902088d0f360992c7167d5bf2dc05b887208i0.png"
@@ -898,6 +1022,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 9 13 20 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/5325856314818c33bebd5471dc125f477450ec42eda5456a954de4332eeab100i0.png"
@@ -931,6 +1059,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 10 14 21 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/6edfc7d4df69a14dafd060503ef8f40d9820fe81bd5859c9603ebc2183f94824i0.png"
@@ -964,6 +1096,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 4 19 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/6ac6aa4e3e2d74f949977175a1d0eefe45d779c65813fe915167dc9595c3c42ci0.png"
@@ -997,6 +1133,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 10 16 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/914c7c6a87027cd7b8822bc76d16181c9bf8bae8bd9d338784ab9e636838892di0.png"
@@ -1030,6 +1170,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 7 17 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/41c51932aff98d99770f5d8ab462c2a3de494daf8753bfeabfc0200974e41b3ei0.png"
@@ -1063,6 +1207,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 11 15 20 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/66780170ac500a6ff16cc22bb3633ef3ed57e80dac3eb29373dfeb72a1c8f53ei0.png"
@@ -1096,6 +1244,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 10 14 20 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/fe2cd205fceadd10092806f67c3e9165b1761819eac1bc3e657a5c5b8dc70b45i0.png"
@@ -1129,6 +1281,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 3 17 20 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/dcddb05fb5bbdd01c722b1b795e799ac6eee464063db82ae543fe03c1a503c4ci0.png"
@@ -1162,6 +1318,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 3 18 21 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/f971f209f1a80277f4ac935af024d12ba8bb496da425ba1af73d490fa0684751i0.png"
@@ -1195,6 +1355,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 11 14 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/c92500f86b89ddad5021f3063f94f142d8a755810d3322d35c471db6e4ef8253i0.png"
@@ -1228,6 +1392,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 10 16 21 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/75578016b6b160da206494231715cca351de518add37b6fe6e5bdd0d0f94b572i0.png"
@@ -1261,6 +1429,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 4 15 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/417e5c9f87a5ddf1b7a02fd491525facd03747f64a7041b3bce659e92f123d8bi0.png"
@@ -1286,6 +1458,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 14 21 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/752b5817ec8516c0507b677cc796d96e3ed38eafa6ad3e156987afa493a8259fi0.png"
@@ -1319,6 +1495,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 3 12 21 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/1a7cfb14a7b53839e47a60582fccf61c3e5f20a07f74b1f8a9db3c2cb212eda5i0.png"
@@ -1352,6 +1532,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 5 13 21 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/4b5dbe18a9da0d91ac76b59d6cdf16c680341869651274138f7f4d9607f6dab2i0.png"
@@ -1385,6 +1569,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 8 15 20 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/daa12d218bbe29133f7b8f9ec9f7bf59836f8a0043968807031d4e63b972eab7i0.png"
@@ -1418,6 +1606,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 8 15 21 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/5c4a2bb8bbca00d2e315661a2338c457e60c558a61b2592f5fb7758d6087f7bci0.png"
@@ -1451,6 +1643,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 3 18 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/5f7fca8090792b4df82bc46aa96aa682caa67c76a870a367c041a35994fa59bfi0.png"
@@ -1472,6 +1668,10 @@
         {
           "trait_type": "Eyewear",
           "value": "18 - Horned Rim Glasses"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 18"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/cceffcb48931974b2c2a63682ba22fccece2c5e121c589590beda3ad3f0dd5e1i0.png"
@@ -1505,6 +1705,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 10 18 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/5a01ed89b68cf5b80a7ba44fe6232c3a9e5a73cfaf0cc9b0a6a31ca3861893e8i0.png"
@@ -1538,6 +1742,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 3 13 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/8b1da109cb06cd87b6c2069120b872782f284dd47b3948e10cf635bfc9d1f1edi0.png"
@@ -1563,6 +1771,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 6 16 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/1a772a9350bd3b7337cc5be722b698ae3b48b7fea44a4e9da50f053eaec531bci0.png"
@@ -1584,6 +1796,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 22 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/0b992b4d48249ef6bcff4579934189181cafc06d1e985eb55eb90028613a3defi0.png"
@@ -1605,6 +1821,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 13 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/729babcd7cb6a312fb117eba6b722d6d5cc052c7eb316c0d122d2bdc0ffcbdfbi0.png"
@@ -1626,6 +1846,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/acc4f381da3cbf718de33b62f0127f9858c46401a2293d95b1def931f749a5b1i0.png"
@@ -1655,6 +1879,10 @@
         {
           "trait_type": "Eyewear",
           "value": "13 - VR"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 21 22 25 13"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/26b620985216d16ac2892f922deaa4299ce309e8ba0dcbe3c23ff054519e501ci0.png"
@@ -1688,6 +1916,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "25 17 12 24 21 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/6ce1da22b1d7b79b70ef7c73f799157de84ddd5aa9a595d226e18fb0b159204ai0.png"
@@ -1725,6 +1957,10 @@
         {
           "trait_type": "Headwear",
           "value": "11 - Do-rag"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 12 18 6 22 20 11"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/badfe9cd6fe6556a27bd0649cc5a5b808de7cf22410167c343fcc3a7fbf2ac26i0.png"
@@ -1766,6 +2002,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 14 17 18 15 25 20 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/804f2ba9e4e0f06b6c4e50c67f25e1c315277fc8140dfad1e49544331f1c1a52i0.png"
@@ -1791,6 +2031,10 @@
         {
           "trait_type": "Jewelery",
           "value": "21 - Gold Chain"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 4 20 21"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/daf8a24f1df57940a48d2baea296dcc16f7662d1e70a2ab6b5b84ab4f0f3232di0.png"
@@ -1816,6 +2060,10 @@
         {
           "trait_type": "Eyewear",
           "value": "12 - Nerd Glasses"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 25 23 12"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/acfa5683d7829964be409630c834a0146c9debd69259ff310b8de00f0f665058i0.png"
@@ -1841,6 +2089,10 @@
         {
           "trait_type": "Eyewear",
           "value": "19 - Eye Patch"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 25 24 19"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/5174309c8e11afc6bf49f0b704e7cca1f05600f47eb6581cd1681d7e246bcd66i0.png"
@@ -1866,6 +2118,10 @@
         {
           "trait_type": "Eyewear",
           "value": "16 - Regular Shades"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 22 25 16"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/1ad5d69aa6a13a4d24907dfe2a619bb4672509995f9a7735e86c7a15c463012ei0.png"
@@ -1895,6 +2151,10 @@
         {
           "trait_type": "Eyewear",
           "value": "19 - Eye Patch"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 25 22 18 19"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/f8dc6dd393625fd31179e9f6672043acf86687bcc6fa7e0720de176a990c9502i0.png"
@@ -1928,6 +2188,10 @@
         {
           "trait_type": "Eyewear",
           "value": "19 - Eye Patch"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 22 21 20 19"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/2d326a37d3d2f1481300a20889188c176990163225637b1bbab56b3b62c7a323i0.png"
@@ -1961,6 +2225,10 @@
         {
           "trait_type": "Eyewear",
           "value": "17 - Small Shades"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 22 25 22 21 17"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/94e60dfafdb666441f37431e961749ce6ef23c119df0490c7dbc41c816805a2fi0.png"
@@ -1990,6 +2258,10 @@
         {
           "trait_type": "Eyewear",
           "value": "19 - Eye Patch"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 25 22 12 19"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/5e5bb9fc76ff91923e996f8d9f9c30edbb8ee8bb9af3d0c576e6ca6bdb6154adi0.png"
@@ -2015,6 +2287,10 @@
         {
           "trait_type": "Eyewear",
           "value": "16 - Regular Shades"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 23 10 16"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/76a9efa4b37731a2a61f658a7b34c97c19c57baa9865d0cacbf2228e6323ebe8i0.png"
@@ -2040,6 +2316,10 @@
         {
           "trait_type": "Eyewear",
           "value": "19 - Eye Patch"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 22 19"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/84dd050775322a5f3913246f6c57b869df302da23a0af6fc30f9d46e3aed58fai0.png"
@@ -2065,6 +2345,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 14 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/da7c579130ebc77fe74d0f98275a2186425939a915d5e5079ba07245c52a01e1i0.png"
@@ -2086,6 +2370,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "25 12 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/3d2a990c6b387b75359b1fb73a443002532cd59105b1250391b6f83ceb088a08i0.png"
@@ -2123,6 +2411,10 @@
         {
           "trait_type": "Headwear",
           "value": "7 - Cap"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 4 12 23 21 20 7"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/81237f8dccb8f5c283d6a5422c608f579a85112992fe59e7bec44b1d77aa9c32i0.png"
@@ -2148,6 +2440,10 @@
         {
           "trait_type": "Eyewear",
           "value": "12 - Nerd Glasses"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 22 12"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/f78fee643f557ba8692bf2a3dfc16599b58a8041f332ef15c9b08b3f6557fea2i0.png"
@@ -2173,6 +2469,10 @@
         {
           "trait_type": "Headwear",
           "value": "4 - Headband"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 15 23 4"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/f3aa5895a46c14fec4ba643e3298576a2fc520abc0bf8f994ac09c327c10e3f7i0.png"
@@ -2210,6 +2510,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 2 10 13 20 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/64f1ac0893af37c7a2dc4a19225117e0a0ced209be49a9d8cd1c72ab2e1d3207i0.png"
@@ -2243,6 +2547,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 5 24 14 21 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/701a06e7abebef39c9ebc16266f8e91f7185e842edad3ef5087605cb9baa2ab1i0.png"
@@ -2276,6 +2584,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "25 15 21 20 19 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/cf0026ee2fd2949db2607c09c783f7f89b3bc3995009575efee0130bf20ba05bi0.png"
@@ -2309,6 +2621,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 9 17 25 21 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/d41e95a1deabff126cb1d699c23ad3dc38ecc2719f06d162b12511144c4ca0a5i0.png"
@@ -2338,6 +2654,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "5 16 21 24 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/7f5b12eaee40f2b4609529ac904712b507a7eb28c4cfd1a85a9fece6a4f6b95bi0.png"
@@ -2363,6 +2683,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 5 17 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/caaf1b88f40ab576e4a777c7c82792e50c9b11ba8696844f6fcec6e9ea4d2fb3i0.png"
@@ -2392,6 +2716,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "7 17 20 21 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/dbc509761384c349c18b66d7f225c1ffb794a9d1cf1218fb5533df60b8511c31i0.png"
@@ -2421,6 +2749,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 9 12 22 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/6bc0510eefa168b28ec02ad54f9b267c59c799539641a56b9a003e3756aadd9ei0.png"
@@ -2454,6 +2786,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "9 14 20 21 22 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/ccbc4f9f2d46be72ee0100a55a7ad395e2de561f7e8aac47922db1917e1748aci0.png"
@@ -2479,6 +2815,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 25 12 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/11eda2be319cc4c64fe3eecf734daf275fe99521c8e016326ca483811647da6bi0.png"
@@ -2504,6 +2844,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 18 22 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/3a8b9560025133a0c2e739b9ce72196f3db465578f83666d6a692a85098e1ae8i0.png"
@@ -2537,6 +2881,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 13 21 20 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/2a1b66aed440f2b4604f8162dd8a6e5cb483cf59de963538c0e65923dab71704i0.png"
@@ -2570,6 +2918,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 4 19 20 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/35fee9406b3626f317da14f311ceb1ef5f36aefc1b2f3697534d2449b9335d08i0.png"
@@ -2603,6 +2955,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "2 13 14 20 21 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/776f9b5a185c0011b9b443211f98c30d150728daf17e5765e6b4ab53055c9a39i0.png"
@@ -2636,6 +2992,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 11 13 23 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/723cb05d813b3d68cc5c676dbc2f81e8dcaa479be9327c34209985cd7dc59c39i0.png"
@@ -2661,6 +3021,10 @@
         {
           "trait_type": "Jewelery",
           "value": "20 - Earring"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 14 20"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/a2808cd48491df9cbaf81440e183c0db920504e14d41605b6238974baaf5b4eai0.png"
@@ -2682,6 +3046,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "12 19 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/ee61bb0aa46e8b4ea47656c3726b147250cda56e272c79ad7a7fcb24bc8ea40di0.png"
@@ -2707,6 +3075,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 5 21 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/365d96577c0bcd625ef71f3fc85f291a72c3dfeed02bdf78a268df8385d5d846i0.png"
@@ -2728,6 +3100,10 @@
         {
           "trait_type": "Eyewear",
           "value": "17 - Small Shades"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 15 17"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/6195f6a64ddbc3b33ac1c677bc273c05dc6e66e54a774c6514b0d44b89e5f6d9i0.png"
@@ -2749,6 +3125,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 16 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/2d9e54b9283f859279e7343a6d9dd0ae25c985105a36f6e266db73e3f57cb110i0.png"
@@ -2774,6 +3154,10 @@
         {
           "trait_type": "Props",
           "value": "22 - Pipe"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 1 12 22"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/8fe22273b370a3b3665393f015a2906bdc734ca3d3f2482abb2b1dbe1896c1bbi0.png"
@@ -2791,6 +3175,10 @@
         {
           "trait_type": "Eyewear",
           "value": "13 - VR"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 13"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/57a52d4f66f43827aff5b0332054ecb910748f5e28984e53d572dac913a6d570i0.png"
@@ -2812,6 +3200,10 @@
         {
           "trait_type": "Clothes",
           "value": "25 - Hoodie"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 12 25"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/ef1ed8e2e8d7556710002f0db1f136b7cc18670b474b11e34b50882af46075a3i0.png"
@@ -2837,6 +3229,10 @@
         {
           "trait_type": "Props",
           "value": "24 - Medical Mask"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 7 17 24"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/63a281571de86b5f3f349173bb23ddf91d1733a49cc0ce3c380d36a1bf39f98ai0.png"
@@ -2866,6 +3262,10 @@
         {
           "trait_type": "Props",
           "value": "23 - Cigarette"
+        },
+        {
+          "trait_type": "DNA",
+          "value": "0 10 12 8 23"
         }
       ],
       "high_res_img_url": "https://ordbase.github.io/content/78506f448f5741c778ba5db184c12477f1ca26c859806fcdb6bf2595b921f493i0.png"
