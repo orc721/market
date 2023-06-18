@@ -1,6 +1,5 @@
-ORC-721 / OG / Ordgen 
-
-# Ordinal Generative Market Listings
+ 
+# Ordinal Generative (ORC-721 / OG / Ordgen) Market Listings
 
 Note:   the rule is
 the deployer of the ORC-721 collection deploy text inscribe
