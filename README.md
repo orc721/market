@@ -24,12 +24,21 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 1000 Words on Bitcoin by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  <br> [read more »](https://github.com/ZimmerAllDay/btcwords)
 
+100 Orange Pixels by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  <br> [read more »](https://github.com/ZimmerAllDay/orangepixels)
+
 
 
 ## Wen Deploy?  What's Upcoming?
 
-100 D.I.Y. Recursive Martians - Aliens Vol. 2 (24×24) - SOON! <br> [read more »](https://github.com/ordbase/generative-orc-721/tree/master/diymartians)
+100 D.I.Y. Recursive Zombies (24×24) - SOON!    - Part Three of Trilogy - D.I.Y. Apes / Aliens / Zombies
 
+100 D.I.Y. Recursive Orangutans - Apes Vol. 2 (24×24) - SOON!  
+
+
+
+<!--
+100 D.I.Y. Recursive Martians - Aliens Vol. 2 (24×24) - SOON! <br> [read more »](https://github.com/ordbase/generative-orc-721/tree/master/diymartians)
+-->
 
 
 
