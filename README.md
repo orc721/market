@@ -24,7 +24,7 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 1000 Words on Bitcoin by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  <br> [read more »](https://github.com/ZimmerAllDay/btcwords)
 
-100 Orange Pixels by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  <br> [read more »](https://github.com/ZimmerAllDay/orangepixels)
+100 Orange Pixels (24×24) by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  <br> [read more »](https://github.com/ZimmerAllDay/orangepixels)
 
 
 
