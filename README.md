@@ -30,10 +30,39 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 ## Wen Deploy?  What's Upcoming?
 
+
+**D.I.Y. PHUNKS (MAX. 99) NEED YOUR HELP**
+
+PHREE THE PHUNKS!
+
+... let's kick-off 99 D.I.Y. (Left-Looking) Phunks this weekend ...
+
+if anyone is interested in the upcoming free mint (first-come / first-serve),
+please join the Ordinal Phunks discord ....
+ for now find news & updates  in the #random (General) channel
+
+Note: this is a world's 1st ORC-721 collection ... first with the new og standard text protocol ...
+making minting easier (goodbye json, goodbye quotes (`"""`), goodbye commas (`,,,,`), goodbye objects (`{}`)
+and so on (and less bytes saving sats).
+
+Yes, you can help! Looking for inscribe sponsors to get started minting this weekend ...
+for news & updates join  the Ordinal Phunks discord ..
+
+Ordinal Phunks - what!? For more and discord invite see [**Ordinal Phunks »**](https://twitter.com/OrdinalPhunksV0)
+
+Yes,  do not fade the Ordinal Phunks ... Ordinal Phunks are not going away ... and now get 99 D.I.Y. (Left-Looking) Phunks frens  ...
+join us to make it happen.
+
+
+PS:  Try the [D.I.Y. Phunks (Image) Previewer »](https://ordbase.github.io/generative-orc-721/diyphunks)
+
+
+
+<!--
 100 D.I.Y. Recursive Zombies (24×24) - SOON!    - Part Three of Trilogy - D.I.Y. Apes / Aliens / Zombies
 
 100 D.I.Y. Recursive Orangutans - Apes Vol. 2 (24×24) - SOON!  
-
+-->
 
 
 <!--
@@ -51,6 +80,7 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 **1000 D.I.Y. Ordibots** -> <https://magiceden.io/ordinals/marketplace/diyordibots>
 
+**721 D.I.Y. Cool Cats** -> <https://magiceden.io/ordinals/marketplace/diycoolcats>   - managed by [@TheInscriptor](https://twitter.com/TheInscriptor)
 
 **100 D.I.Y. Recursive Apes** -> <https://magiceden.io/ordinals/marketplace/recursive-apes>
 
@@ -71,7 +101,15 @@ Sat, Jun 17th 2023
 - 100 d.i.y. recursive aliens - floor  ₿ 0.00035 - vol ₿ 0.0157  - owners 29 - listed 36 
 
 
- 
+
+Sat, Jun 24th 2023
+
+- 721 d.i.y punks - floor ₿ 0.00069 (↓0.00002) - vol ₿ 0.2515 - owners 134 - listed 101 (↑12)
+- 721 d.i.y. punks v2 - floor ₿ 0.0001 - vol ₿ 0.0284 (↑0.001) - owners 136 (↓1) - listed 88 (↓1)
+- 1000 d.i.y. ordibots - floor ₿ 0.0001 (↓0.000175) - vol ₿ 0.0813 (↑0.0011) - owners 103 (↓1) - listed 193 (↑57)
+- NEW !  721 d.i.y cool cats 
+- 100 d.i.y. recursive apes - floor ₿ 0.0008 (↓0.00015) - vol ₿ 0.1802 - owners 73 - listed 40 (↑7)
+- 100 d.i.y. recursive aliens - floor ₿ 0.00028 (↓0.00007) - vol ₿ 0.0171 (↑0.0014) - owners 30 (↑1) - listed 36 
 
 
 
