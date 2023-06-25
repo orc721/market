@@ -26,7 +26,7 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 100 Orange Pixels (24×24) by  [@ZimmerAllDay](https://twitter.com/zimmerallday)  <br> [read more »](https://github.com/ZimmerAllDay/orangepixels)
 
-100 D.I.Y. Phunks (24×24) <br> [read more (in Ordinal Phunks dicords - #random / General channel) »](https://twitter.com/OrdinalPhunksV0)
+100 D.I.Y. Phunks (24×24) <br> [read more (in Ordinal Phunks discord - #random / General channel) »](https://twitter.com/OrdinalPhunksV0)
 
 
 ## Wen Deploy?  What's Upcoming?
