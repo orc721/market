@@ -31,10 +31,13 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 ## Wen Deploy?  What's Upcoming?
 
+10 000 D.I.Y. Genesis Punks (24×24) - SOON!
+
+<!--
 100 D.I.Y. Recursive Zombies (24×24) - SOON!    - Part Three of Trilogy - D.I.Y. Apes / Aliens / Zombies
 
 100 D.I.Y. Recursive Orangutans - Apes Vol. 2 (24×24) - SOON!  
-
+-->
 
 <!--
 100 D.I.Y. Recursive Martians - Aliens Vol. 2 (24×24) - SOON! <br> [read more »](https://github.com/ordbase/generative-orc-721/tree/master/diymartians)
