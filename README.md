@@ -120,7 +120,5 @@ Sat, Jun 24th 2023
 
 ## Questions? Comments?
 
-Please post in the #generative-orc-721 channel
-in the ordinal punks discord.
-For an invite
-see <https://twitter.com/OrdinalPunks/status/1620230583711576068>.
+Please post in the [ordinal punks](https://ordinalpunks.com) discord (in the #generative-orc-721 channel)
+or in the [ordinal phunks](https://twitter.com/OrdinalPhunksV0) discord (in the #random / General channel).
