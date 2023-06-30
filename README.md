@@ -1,3 +1,6 @@
+
+**NEW!***   [Discussions - Join Us - Welcome to the ordgen / ORC-721 Community - Wen [next] deploy? »](https://github.com/orc721/market/discussions)
+
  
 # Bitcoin (BTC / ₿) Ordinal Generative (ORC-721 / OG / Ordgen) Market Listings
 
