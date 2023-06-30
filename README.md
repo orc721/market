@@ -124,5 +124,9 @@ Sat, Jun 24th 2023
 
 ## Questions? Comments?
 
+
+**NEW!**   [Discussions - Join Us - Welcome to the ordgen / ORC-721 Community - Wen [next] deploy? »](https://github.com/orc721/market/discussions)
+
+
 Please post in the [ordinal punks](https://ordinalpunks.com) discord (in the #generative-orc-721 channel)
 or in the [ordinal phunks](https://twitter.com/OrdinalPhunksV0) discord (in the #random / General channel).
