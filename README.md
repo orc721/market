@@ -113,7 +113,7 @@ Sat, Jul 1st 2023
 - 721 d.i.y punks - floor ₿ 0.0006 (↓0.00009) - vol ₿ 0.2515 - owners 134 - listed 104 (↑3)
 - 721 d.i.y. punks v2 - floor ₿ 0.0001 - vol ₿ 0.0295 (↑0.0011) - owners 136  - listed 88 
 - 1000 d.i.y. ordibots - floor ₿ 0.000099 (↓0.000001) - vol ₿ 0.0819 (↑0.0006) - owners 105 (↑2) - listed 187 (↓6)
-- 721 d.i.y cool cats     owners 102 - listed 47
+- 721 d.i.y cool cats  -   owners 102 - listed 47
 - 100 d.i.y. recursive apes - floor ₿ 0.0008  - vol ₿ 0.1802 - owners 73 - listed 40 
 - 100 d.i.y. recursive aliens - floor ₿ 0.00012 (↓0.00016) - vol ₿ 0.0171 - owners 30  - listed 36 
 
