@@ -1,7 +1,7 @@
 
 **NEW!  [Discussions - Join Us - Welcome to the Ordgen / ORC-721 Community - Wen [next] deploy? »](https://github.com/orc721/market/discussions)**
 
-**NEW!  [Public Ordgen / ORC-721 Mint Feed (Incl. Reference Images in 1x and 4x »](https://orc721.github.io)**
+**NEW!  [Public Ordgen / ORC-721 Mint Feed (Incl. Reference Images in 1x and 4x) »](https://orc721.github.io)**
 
  
 # Bitcoin (BTC / ₿) Ordinal Generative (ORC-721 / OG / Ordgen) Market Listings
