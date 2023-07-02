@@ -35,29 +35,26 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 100 D.I.Y. Phunks (24×24) <br> [read more (in Ordinal Phunks discord - #random / General channel) »](https://twitter.com/OrdinalPhunksV0)
 
 
-## Wen Deploy?  What's Upcoming?
- 
-### D.I.Y. GENESIS PUNKS (MAX. 10 000) NEED YOUR HELP
-
-Yes, you can help! Looking for inscribe sponsor to get the free mint (first-come/first-serve) started  ...
+### D.I.Y. GENESIS PUNKS (MAX. 10 000) WEN MINT? NOW - FREE, FIRST-COME/FIRST-SERVE 
 
 The idea is re(use) or "recurse on" all 133 .PNG inscriptions in
 the recursive punks collection - 
 that are - surprise, suprise -  pixel-perfect copies of 
 the "originals" in the CryptoPunksData contract (Anno 2021).
 
-Let's deploy a new ordgen / ORC-721 collection - 10 000 D.I.Y. Genesis Punks - (re)using or (is it "recursing on"?) the .PNGs indexed 1 to 133 with the bonus bitcoin orange background at 0 - plus going beyond recursive punks 
+Let's mint a new ordgen / ORC-721 collection (free, first-come/first-serve) - 10 000 D.I.Y. Genesis Punks - (re)using or (is it "recursing on"?) the .PNGs indexed 1 to 133 with the bonus bitcoin orange background at 0 - plus going beyond recursive punks 
 by matching the attribute ids in the CryptoPunksData in the generative dna ("on-chain" bitcoin metadata).
 
-... read more at the [10 000 D.I.Y. Genesis Punks Readme »](https://github.com/ordbase/generative-orc-721/tree/master/genesis)
+... read more at the [10 000 D.I.Y. Genesis Punks Readme »](genesis)
 
 
 PS:  Try the [D.I.Y. Genesis Punks (Image) Previewer »](https://ordbase.github.io/generative-orc-721/genesis)
 
 
 
-
 <!--
+## Wen Deploy?  What's Upcoming?
+ 
 100 D.I.Y. Recursive Zombies (24×24) - SOON!    - Part Three of Trilogy - D.I.Y. Apes / Aliens / Zombies
 
 100 D.I.Y. Recursive Orangutans - Apes Vol. 2 (24×24) - SOON!  
