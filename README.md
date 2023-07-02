@@ -45,7 +45,7 @@ the "originals" in the CryptoPunksData contract (Anno 2021).
 Let's mint a new ordgen / ORC-721 collection (free, first-come/first-serve) - 10 000 D.I.Y. Genesis Punks - (re)using or (is it "recursing on"?) the .PNGs indexed 1 to 133 with the bonus bitcoin orange background at 0 - plus going beyond recursive punks 
 by matching the attribute ids in the CryptoPunksData in the generative dna ("on-chain" bitcoin metadata).
 
-... read more at the [10 000 D.I.Y. Genesis Punks Readme »](genesis)
+... read more at the [10 000 D.I.Y. Genesis Punks Readme »](https://github.com/ordbase/generative-orc-721/tree/master/genesis)
 
 
 PS:  Try the [D.I.Y. Genesis Punks (Image) Previewer »](https://ordbase.github.io/generative-orc-721/genesis)
