@@ -87,6 +87,8 @@ PS:  Try the [D.I.Y. Genesis Punks (Image) Previewer »](https://ordbase.github.
 **100 D.I.Y. Recursive Aliens** -> <https://magiceden.io/ordinals/marketplace/recursivealien>
 
 
+**100 D.I.Y. Maxi Biz (Punks)** -> <https://magiceden.io/ordinals/marketplace/maxibiz_punks>
+
 
 ...
 
@@ -107,7 +109,7 @@ Sat, Jun 24th 2023
 - 721 d.i.y punks - floor ₿ 0.00069 (↓0.00002) - vol ₿ 0.2515 - owners 134 - listed 101 (↑12)
 - 721 d.i.y. punks v2 - floor ₿ 0.0001 - vol ₿ 0.0284 (↑0.001) - owners 136 (↓1) - listed 88 (↓1)
 - 1000 d.i.y. ordibots - floor ₿ 0.0001 (↓0.000175) - vol ₿ 0.0813 (↑0.0011) - owners 103 (↓1) - listed 193 (↑57)
-- NEW !  721 d.i.y cool cats 
+- **NEW!**  721 d.i.y cool cats 
 - 100 d.i.y. recursive apes - floor ₿ 0.0008 (↓0.00015) - vol ₿ 0.1802 - owners 73 - listed 40 (↑7)
 - 100 d.i.y. recursive aliens - floor ₿ 0.00028 (↓0.00007) - vol ₿ 0.0171 (↑0.0014) - owners 30 (↑1) - listed 36 
 
@@ -120,6 +122,17 @@ Sat, Jul 1st 2023
 - 721 d.i.y cool cats  -   owners 102 - listed 47
 - 100 d.i.y. recursive apes - floor ₿ 0.0008  - vol ₿ 0.1802 - owners 73 - listed 40 
 - 100 d.i.y. recursive aliens - floor ₿ 0.00012 (↓0.00016) - vol ₿ 0.0171 - owners 30  - listed 36 
+
+
+Sat, Jul 8th 2023
+
+- 721 d.i.y punks - floor ₿ 0.0006 - vol ₿ 0.2515 (↑0.0040) - owners 134 - listed 101 (↓3)
+- 721 d.i.y. punks v2 - floor ₿ 0.0002 (↑0.0001) - vol ₿ 0.0301 (↑0.0006) - owners 136  - listed 86 (↓2) 
+- 1000 d.i.y. ordibots - floor ₿ 0.0001 (↑0.00001) - vol ₿ 0.0833 (↑0.0014) - owners 107 (↑2) - listed 173 (↓15)
+- 721 d.i.y cool cats  - floor ₿ 0.00009 -  owners 102 - listed 47
+- 100 d.i.y. recursive apes - floor ₿ 0.0014 (↑0.0006)  - vol ₿ 0.1918 (↑0.0116) - owners 72 (↓1) - listed 31 (↓9) 
+- 100 d.i.y. recursive aliens - floor ₿ 0.00015 (↑0.00003) - vol ₿ 0.0174 (↑0.0003) - owners 32 (↑3)  - listed 34 (↓2) 
+- **NEW!**   100 d.i.y maxi biz (punks) -  floor ₿ 0.0035 - vol ₿ 0.0145 - owners 81 - listed  23
 
 
 
