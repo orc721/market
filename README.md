@@ -135,6 +135,15 @@ Sat, Jul 8th 2023
 - **NEW!**   100 d.i.y maxi biz (punks) -  floor ₿ 0.0035 - vol ₿ 0.0145 - owners 81 - listed  23
 
 
+Sat, Jul 15th 2023
+
+- 721 d.i.y punks - floor ₿ 0.0005 (↓0.0001) - vol ₿ 0.2555 (↑0.0040) - owners 134 - listed 101 
+- 721 d.i.y. punks v2 - floor ₿ 0.0002  - vol ₿ 0.0301  - owners 140 (↑4)  - listed 86  
+- 1000 d.i.y. ordibots - floor ₿ 0.000099 (↓0.000001) - vol ₿ 0.0836 (↑0.0006) - owners 109 (↑2) - listed 172 (↓1)
+- 721 d.i.y cool cats  - floor ₿ 0.00009 -  owners 102 - listed 47
+- 100 d.i.y. recursive apes - floor ₿ 0.00098 (↓0.00042)  - vol ₿ 0.1926 (↑0.0008) - owners 71 (↓1) - listed 31  
+- 100 d.i.y. recursive aliens - floor ₿ 0.00015  - vol ₿ 0.0174  - owners 32   - listed 34  
+- 100 d.i.y maxi biz (punks) -  floor ₿ 0.0035 - vol ₿ 0.0145 - owners 81 - listed  23
 
 
 
