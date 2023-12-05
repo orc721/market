@@ -3,7 +3,15 @@
 
 
  
-# Bitcoin (BTC / ₿) Ordinal Generative (ORC-721 / OG / Ordgen) Market Listings
+# Bitcoin (BTC / ₿) Ordinal Generative (Incl. ORC-721 / OG / Ordgen & Frens) Market Listings
+
+## "Off-Chain" Generative
+
+
+
+
+
+## "On-Chain" Generative (Incl. ORC-721 / OG / Ordgen)
 
 Note:   the rule is
 the deployer of the ORC-721 collection deploy text inscribe
@@ -22,7 +30,7 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 
 
 
-## Alpha Alpha Alpha - Free Mints (First-Come / First-Serve)
+### Alpha Alpha Alpha - Free Mints (First-Come / First-Serve)
 
 721 D.I.Y. Birdies (24×24) <br> [read more »](https://github.com/ordbase/generative-orc-721/tree/master/diybirdies)
 
@@ -33,7 +41,7 @@ PS:  See [/generative-orc-721/market](https://github.com/ordbase/generative-orc-
 100 D.I.Y. Phunks (24×24) <br> [read more (in Ordinal Phunks discord - #random / General channel) »](https://twitter.com/OrdinalPhunksV0)
 
 
-### D.I.Y. GENESIS PUNKS (MAX. 10 000) WEN MINT? 
+#### D.I.Y. GENESIS PUNKS (MAX. 10 000) WEN MINT? 
 
 <!-- NOW - FREE, FIRST-COME/FIRST-SERVE 
 -->
@@ -69,7 +77,9 @@ PS:  Try the [D.I.Y. Genesis Punks (Image) Previewer »](https://ordbase.github.
 
 
 
-##  Wen Magic Eden (ME)?
+
+
+###  Wen Magic Eden (ME)?
 
 
 **721 D.I.Y. Punks**  -> <https://magiceden.io/ordinals/marketplace/diy-punks>   - managed by [@diypunksnfts](https://twitter.com/diypunksnfts)
@@ -88,6 +98,7 @@ PS:  Try the [D.I.Y. Genesis Punks (Image) Previewer »](https://ordbase.github.
 **100 D.I.Y. Maxi Biz (Punks)** -> <https://magiceden.io/ordinals/marketplace/maxibiz_punks>
 
 
+<!--
 ...
 
 **d.i.y. weekly market update**
@@ -143,12 +154,9 @@ Sat, Jul 15th 2023
 - 100 d.i.y. recursive aliens - floor ₿ 0.00015  - vol ₿ 0.0174  - owners 32   - listed 34  
 - 100 d.i.y maxi biz (punks) -  floor ₿ 0.0035 - vol ₿ 0.0145 - owners 81 - listed  23
 
+-->
 
-
-## Wen Ordinals Wallet  (OW)?
-
-
-
+### Wen Ordinals Wallet  (OW)?
 
 
 
