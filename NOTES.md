@@ -33,7 +33,7 @@ more markets - <https://magiceden.io/ordinals/marketplace/node_wizards>
 
 ## Node Shrooms (24px)
 
-reference images <[https://github.com/ordbase/welovemonkes](https://github.com/learnpixelart/pixelart.sandbox?tab=readme-ov-file#node-shrooms)>
+reference images <https://github.com/learnpixelart/pixelart.sandbox?tab=readme-ov-file#node-shrooms>
 
 
 ## More
