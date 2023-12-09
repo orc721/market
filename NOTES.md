@@ -5,7 +5,15 @@
 
 ### 10 000 Node Monkes (28px)
 
-(re)launching (public secondary sale) in Dec 13 (?), 2023   - first inscribed in Feb / March (?)
+(re)launching (public secondary sale) in Dec 13 (?), 2023  
+
+> - INSCRIBED       February 14, 2023
+> - INSCRIPTIONS    numbers 83522 to 111319
+> 
+> The art is a compilation of digital characters designed on a 28x28 pixel canvas.
+>  Blocky in nature, Traits are a dissection of crypto culture, and emerging bitcoin / ordinal lore.
+>
+> (Source: Node Monkes FAQ)
 
 see <https://nodemonkes.com>, <https://twitter.com/nodemonkes>
 
