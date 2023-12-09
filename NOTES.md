@@ -40,12 +40,19 @@ reference images <https://github.com/learnpixelart/pixelart.sandbox?tab=readme-o
 
 SOON!
 
-- 9400 Node Rocks - <https://twitter.com/Node_Rock>, <https://ordzaar.com/marketplace/collections/node--rock/mints>
-- Node Zillas  - <https://twitter.com/nodezillas>
-- Node Pepes
-- Node Frogs
+### Node Pepes (28px?)  - SEND PEPES
 
+see <https://twitter.com/thenodepepes>
 
+### Node Frogs (28px?)  - SEND FROGS
+
+see <https://twitter.com/NodeFrogs>
+
+### 9400 Node Rocks 
+see <https://twitter.com/Node_Rock>, <https://ordzaar.com/marketplace/collections/node--rock/mints>
+
+### Node Zillas  
+see <https://twitter.com/nodezillas>
 
 
 
