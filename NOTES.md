@@ -36,6 +36,12 @@ more markets - <https://magiceden.io/ordinals/marketplace/node_wizards>
 reference images <https://github.com/learnpixelart/pixelart.sandbox?tab=readme-ov-file#node-shrooms>
 
 
+## 10 000 Node Rocks (28px ?)
+
+see <https://twitter.com/TheNodeRocks>, <https://www.noderocks.xyz/>
+minted via Ordzaar <https://ordzaar.com/marketplace/collections/noderocks/mints>
+
+
 ## More
 
 SOON!
